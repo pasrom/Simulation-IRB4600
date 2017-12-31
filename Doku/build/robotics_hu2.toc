@@ -1,0 +1,15 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {ngerman}
+\contentsline {chapter}{Abbildungsverzeichnis}{II}{chapter*.2}
+\contentsline {chapter}{Tabellenverzeichnis}{III}{chapter*.3}
+\contentsline {chapter}{Listings}{IV}{section*.4}
+\contentsline {chapter}{\numberline {1}Aufgabenstellung}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Ausf\IeC {\"u}hrung}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Trajektorienermittlung}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Grundlegender Ablauf des Matlab Scripts}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Verlauf der Achswinkel}{6}{section.2.3}
+\contentsline {section}{\numberline {2.4}Verlauf der Eulerkoordinaten}{7}{section.2.4}
+\contentsline {section}{\numberline {2.5}Euklidischer Abstand}{8}{section.2.5}
+\contentsline {chapter}{Anhang}{9}{section*.9}
+\contentsline {chapter}{\numberline {A}Matlab Code}{10}{appendix.A}
